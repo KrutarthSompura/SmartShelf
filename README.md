@@ -26,7 +26,7 @@ Welcome to SmartShelf, a cutting-edge project that combines natural language pro
 
 - ForecastResults.csv: Preprocessed sales data for forecasting.
 
-- ContosoRetailDW.bak: Database backup file for MS SQL Server.
+- ContosoRetailDW.bak: Database backup file for MS SQL Server (link to download the .bak file).
 
 # 🎥 Demonstration Video
 
