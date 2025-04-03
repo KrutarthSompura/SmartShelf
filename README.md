@@ -1,6 +1,6 @@
 # 📦 SmartShelf
 
-SmartShelf: AI-Powered SQL Query and Forecasting Application 🤖
+SmartShelf: AI-Powered NLQ Querying and Sales Forecasting Application 🤖
 
 Welcome to SmartShelf, a cutting-edge project that combines natural language processing, SQL query generation, data visualization, and machine learning forecasting into one seamless interface. Built using Streamlit, this project demonstrates how AI can revolutionize data interaction and decision-making.
 
